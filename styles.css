@@ -1,0 +1,27 @@
+html{
+    background: #aeb8ec ;
+    font-size: 45px;
+    color: mistyrose;
+       
+}
+
+
+body {
+    background: #bfc2ea;
+    color: #545454;
+    font-size: 20px;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 3em 3em 4em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+img {
+    width: 350px;
+}
+
+h1,h2,h3,h4 {
+    color: #3F4D59;
+    font-weight:45;
+    line-height: 2.3;
+}
